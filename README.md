@@ -1,7 +1,7 @@
 <h1>Hi, I'm Léa! </h1> 
 
 <h2>🌱 Who am I ?</h2>
-I am a second-year Master’s student in Computer Science major at the Institut Mines-Télécom Nord Europe, and am currently doing my last year at the University of Technology Sydney (UTS). In light of my interest for the data sector, and Artificial Intelligence, I aim to specialize myself in this field ! You can check here some of the projects I was able to carry out !
+I'm a freshly graduated general engineer with a dual Master's degree from IMT Nord Europe (formerly Mines de Douai) in Digital Sciences - Data Science and the University of Technology Sydney in Engineering Management. In light of my interests, I aim to advance professionally in Data and AI. You can check here some of the projects I was able to carry out ! There are more are to come !
 
 <h2>👨‍💻 My Projects:</h2>
 
